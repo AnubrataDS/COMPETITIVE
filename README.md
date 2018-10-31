@@ -1,2 +1,2 @@
 # COMPETITIVE
-codes related to competitive programming domain
+code related to competitive programming domain
