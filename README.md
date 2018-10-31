@@ -1,2 +1,2 @@
 # Competitive Programming Repo
-code related to competitive programming domain
+some code related to competitive programming 
